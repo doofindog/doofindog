@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
 
 <h1 align="center">
     I'm Aaron Fernandes!
 </h1>
 
-<h3 align="center">A passionate game developer & software developer from India</h3>
+<h3 align="center">A passionate game developer & software developer</h3>
 
 <br/>
 
