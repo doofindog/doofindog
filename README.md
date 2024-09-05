@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a tactical turn-based toolkit for Unity**
  
- 🎮 I’m currently expanding my skills in **Procedural Generation, shader programming, and Unity ECS**
+ 🎮 I’m currently expanding my skills in **Procedural Generation, VR simulations, and Unity ECS**
 
 ⚡ Fun fact **Game mechanics design is like solving a never-ending puzzle, but that's what makes it fun!**
 
