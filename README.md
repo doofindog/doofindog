@@ -4,7 +4,7 @@
     I'm Aaron Fernandes!
 </h1>
 
-<h3 align="center">A passionate game developer & software developer from India 🇨🇦</h3>
+<h3 align="center">A passionate game developer & software developer from India</h3>
 
 <br/>
 
