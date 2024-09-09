@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Game Dev & Software Dev Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,c++,blender,photoshop,visualstudio,git,github" />
+    <img src="https://skillicons.dev/icons?i=unity,cplusplus,blender,photoshop,visualstudio,git,github" />
     <img src="https://skillicons.dev/icons?i=AR,typescript,react,python,bashscript,jenkins" /><br>
 </div>
 
